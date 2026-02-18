@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{244A136B-1508-4025-8962-C2D936C1CEBA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Minimercados_Unidos</RootNamespace>
+    <AssemblyName>Minimercados_Unidos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Claases\cConexiones.cs" />
+    <Compile Include="Formularios\Admin\FmrAgregarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrAgregarProveedor.Designer.cs">
+      <DependentUpon>FmrAgregarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrAgregarAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrAgregarAdmin.Designer.cs">
+      <DependentUpon>FmrAgregarAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrAgregarRepartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrAgregarRepartidor.Designer.cs">
+      <DependentUpon>FmrAgregarRepartidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrPagar.Designer.cs">
+      <DependentUpon>FmrPagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Admin\fmrAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\fmrAdmin.Designer.cs">
+      <DependentUpon>fmrAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrCliente.Designer.cs">
+      <DependentUpon>FmrCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrDetallePedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrDetallePedido.Designer.cs">
+      <DependentUpon>FmrDetallePedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmOrdenCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmOrdenCompra.designer.cs">
+      <DependentUpon>frmOrdenCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrSingInCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrSingInCliente.Designer.cs">
+      <DependentUpon>FmrSingInCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Repartidor\fmrDetalleRepartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Repartidor\fmrDetalleRepartidor.Designer.cs">
+      <DependentUpon>fmrDetalleRepartidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrInventario.Designer.cs">
+      <DependentUpon>FmrInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogIn.Designer.cs">
+      <DependentUpon>FmrLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrMiniMercado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrMiniMercado.Designer.cs">
+      <DependentUpon>FmrMiniMercado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Cliente\FmrPedidos.Designer.cs">
+      <DependentUpon>FmrPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrPedidosAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\FmrPedidosAdmin.Designer.cs">
+      <DependentUpon>FmrPedidosAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Repartidor\FmrRepartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Repartidor\FmrRepartidor.Designer.cs">
+      <DependentUpon>FmrRepartidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogInAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogInAdmin.Designer.cs">
+      <DependentUpon>FmrLogInAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogInCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogInCliente.Designer.cs">
+      <DependentUpon>FmrLogInCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogInDomiciliario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\LogIn\FmrLogInDomiciliario.Designer.cs">
+      <DependentUpon>FmrLogInDomiciliario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\Admin\FmrAgregarProveedor.resx">
+      <DependentUpon>FmrAgregarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Admin\FmrAgregarAdmin.resx">
+      <DependentUpon>FmrAgregarAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Admin\FmrAgregarRepartidor.resx">
+      <DependentUpon>FmrAgregarRepartidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Cliente\FmrMiniMercado.resx">
+      <DependentUpon>FmrMiniMercado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Cliente\FmrPagar.resx">
+      <DependentUpon>FmrPagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Admin\fmrAdmin.resx">
+      <DependentUpon>fmrAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Cliente\FmrCliente.resx">
+      <DependentUpon>FmrCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Admin\FmrDetallePedido.resx">
+      <DependentUpon>FmrDetallePedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmOrdenCompra.resx">
+      <DependentUpon>frmOrdenCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LogIn\FmrSingInCliente.resx">
+      <DependentUpon>FmrSingInCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Repartidor\fmrDetalleRepartidor.resx">
+      <DependentUpon>fmrDetalleRepartidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Admin\FmrInventario.resx">
+      <DependentUpon>FmrInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LogIn\FmrLogIn.resx">
+      <DependentUpon>FmrLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Cliente\FmrPedidos.resx">
+      <DependentUpon>FmrPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Admin\FmrPedidosAdmin.resx">
+      <DependentUpon>FmrPedidosAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Repartidor\FmrRepartidor.resx">
+      <DependentUpon>FmrRepartidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LogIn\FmrLogInAdmin.resx">
+      <DependentUpon>FmrLogInAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LogIn\FmrLogInCliente.resx">
+      <DependentUpon>FmrLogInCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LogIn\FmrLogInDomiciliario.resx">
+      <DependentUpon>FmrLogInDomiciliario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

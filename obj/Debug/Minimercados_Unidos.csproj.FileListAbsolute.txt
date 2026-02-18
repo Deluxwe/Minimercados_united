@@ -1,0 +1,104 @@
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe.config
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.pdb
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.AssemblyReference.cache
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrLogIn.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Properties.Resources.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.GenerateResource.cache
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.CoreCompileInputs.cache
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.exe
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.pdb
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrAdmin.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrCliente.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrRepartidor.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrInventario.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrDetalleRepartidor.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrDetallePedido.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidos.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidosAdmin.resources
+D:\IUE U\POO\Proyecto Poo\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrSeleccionProductos.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe.config
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.pdb
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.AssemblyReference.cache
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrCliente.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrDetallePedido.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrDetalleRepartidor.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrInventario.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrLogIn.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidos.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidosAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrRepartidor.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrSeleccionProductos.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Properties.Resources.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.GenerateResource.cache
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.CoreCompileInputs.cache
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.exe
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.pdb
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInCliente.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInDomiciliario.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrMiniMercado.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Cliente.FmrPagar.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarProveedor.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrSingInCliente.resources
+D:\IUE U\POO\Proyecto Poo v0.2\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarRepartidor.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe.config
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.pdb
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.AssemblyReference.cache
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarProveedor.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarAdmin.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarRepartidor.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrMiniMercado.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Cliente.FmrPagar.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrAdmin.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrCliente.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrDetallePedido.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrSingInCliente.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrDetalleRepartidor.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrInventario.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrLogIn.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidos.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidosAdmin.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrRepartidor.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrSeleccionProductos.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInAdmin.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInCliente.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInDomiciliario.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Properties.Resources.resources
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.GenerateResource.cache
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.CoreCompileInputs.cache
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.exe
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.pdb
+C:\Users\dlrios.IUE\Downloads\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.frmOrdenCompra.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.AssemblyReference.cache
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarProveedor.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Admin.FmrAgregarRepartidor.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrMiniMercado.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.Cliente.FmrPagar.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrCliente.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrDetallePedido.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.frmOrdenCompra.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrSingInCliente.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.fmrDetalleRepartidor.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrInventario.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrLogIn.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidos.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrPedidosAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.FmrRepartidor.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInAdmin.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInDomiciliario.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Properties.Resources.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.GenerateResource.cache
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.csproj.CoreCompileInputs.cache
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.exe
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.pdb
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\obj\Debug\Minimercados_Unidos.Formularios.LogIn.FmrLogInCliente.resources
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe.config
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.exe
+D:\IUE U\POO\Proyecto Poo v0.3\Minimercados_Unidos\Minimercados_Unidos\Minimercados_Unidos\bin\Debug\Minimercados_Unidos.pdb
